@@ -1,4 +1,9 @@
-package com.dawson.wechat;
+package com.dawson.wechat.servlet;
+
+import com.dawson.wechat.api.TulingApiProcess;
+import com.dawson.wechat.xml.FormatXmlProcess;
+import com.dawson.wechat.xml.ReceiveXmlEntity;
+import com.dawson.wechat.xml.ReceiveXmlProcess;
 
 /**
  * 微信xml消息处理流程逻辑类

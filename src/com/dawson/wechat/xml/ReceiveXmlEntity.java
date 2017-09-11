@@ -1,4 +1,4 @@
-package com.dawson.wechat;
+package com.dawson.wechat.xml;
 
 /** 
  * 接收到的微信xml实体类 

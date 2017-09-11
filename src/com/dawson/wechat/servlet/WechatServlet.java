@@ -1,4 +1,4 @@
-package com.dawson.wechat;
+package com.dawson.wechat.servlet;
 
  
 import java.io.BufferedReader;
